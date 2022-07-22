@@ -8,3 +8,7 @@ Pandas
   * Series: 1차원
   * DataFrame: 2차원
   * Panel: 3차원
+
+##Pandas 불러오기
+ import numpy as np # 보통 numpy와 함께 불러옴
+ import pandas as pd

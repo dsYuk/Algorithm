@@ -1,6 +1,6 @@
 # Python
 
 ## Machine Learning
-'''python
+'''python3
   import pandas as pd
 '''

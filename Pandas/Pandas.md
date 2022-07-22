@@ -11,5 +11,5 @@ Pandas
 
 # Pandas 불러오기
 
- import numpy as np # 보통 numpy와 함께 불러옴
- import pandas as pd
+  import numpy as np   \\
+  import pandas as pd

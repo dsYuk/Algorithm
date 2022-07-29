@@ -1,4 +1,4 @@
-### sickit-learning
+# sickit-learning
 머신러닝을 활용한 분석 시 유용한 라이브러리
 
 * 분류 (Classification) - 개체가 속한 범주 식별

@@ -19,3 +19,7 @@
     * Stem : 단어의 의미를 담은 핵심
     * Affix : 단어에 추가 용법을 부여
     * Porter Algorithm : 대표적인 Stemming 방법
+
+---
+
+  pytorch

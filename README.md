@@ -4,3 +4,5 @@
 - [크롤링 강의 - 나도코딩](https://www.youtube.com/watch?v=ZDh1C7qw0Rs&t=361s)
 
 - [백준 문제 추천](https://covenant.tistory.com/224)
+
+- [관련 용어](https://developers.google.com/machine-learning/glossary/?hl=ko)
